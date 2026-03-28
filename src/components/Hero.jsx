@@ -84,8 +84,8 @@ const Hero = () => {
 
                     
                     <a
-                        href="/Nadisha_Buddini_CV.pdf"
-                        download="Nadisha_Buddini_CV.pdf"
+                        href="/Nadisha_Buddini_Full_Stack_developer_Intern_CV.pdf"
+                        download="Nadisha_Buddini_Full_Stack_developer_Intern_CV.pdf"
                         className="w-full sm:w-auto border border-fuchsia-500/50 bg-fuchsia-500/5 text-fuchsia-300 px-8 py-4 rounded-full font-bold hover:bg-fuchsia-500/20 transition-all text-center backdrop-blur-sm"
                     >
                         Download CV

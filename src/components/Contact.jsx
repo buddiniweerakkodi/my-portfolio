@@ -99,6 +99,15 @@ const Contact = () => {
                                     <p className="font-bold text-gray-200">Gampaha, Sri Lanka</p>
                                 </div>
                             </div>
+                            <div className="flex items-center space-x-5 group">
+                                <div className="p-4 text-purple-400 transition-all duration-300 border bg-white/5 rounded-xl border-white/10 group-hover:bg-purple-500/20 group-hover:border-purple-500/50">
+                                    <FaPhoneAlt className="text-xl" />
+                                </div>
+                                <div>
+                                    <p className="text-sm font-medium text-gray-500">Phone</p>
+                                    <p className="font-bold text-gray-200">+94 764425415</p>
+                                </div>
+                            </div>
                         </div>
 
                         <div className="flex pt-6 space-x-4 border-t border-white/10">
