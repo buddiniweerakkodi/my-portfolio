@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scrolling මුළු සයිට් එකටම අදාළ වෙන්න මේකත් දාගමු */
+html {
+  scroll-behavior: smooth;
+}
